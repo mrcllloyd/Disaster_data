@@ -78,7 +78,7 @@ table_sel = st.sidebar.selectbox("Select table (Table_Source)", table_options, i
 filtered = df[df["Table_Source"] == table_sel].copy()
 
 # ---------- Executive Section ----------
-with st.expander("Executive Narrative", expanded=True):
+with st.expander(" Narrative", expanded=True):
     st.markdown("""
 **What this dashboard shows**  
 - *Allocations* across LGU levels and regions (*Tables 21-1 to 21-5*), and *utilization* patterns (COVID vs non-COVID, financing gaps, and class-level utilization rates).  
