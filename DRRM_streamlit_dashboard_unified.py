@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 from matplotlib.backends.backend_pdf import PdfPages
 
-st.set_page_config(page_title="DRRM Dashboard — Unified", layout="wide")
+st.set_page_config(page_title="DRRM Dashboard", layout="wide")
 
 # ---------- Helpers ----------
 def currency(x):
