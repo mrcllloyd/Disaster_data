@@ -1,0 +1,59 @@
+City,LDRRMF,STF,From other LGUs,NDRRMF,Other Sources,Total Funding,% to Total,Table_Source,Class,Province,Region,Total_Utilization,COVID_Utilization,NonCOVID_Utilization,Reported_Damages_Billion,Available_QRF_Billion,Gap_Billion,Income_Class,Avg_Sources_Million,Avg_Utilization_Million,Utilization_Rate,LGU,Year,Sources_Million,Utilization_Million,COVID_Share
+Carcar,24104342.0,3578.0,0.0,0.0,0.0,24107919.0,12.49,Table21_1_CityFunding,,,,,,,,,,,,,,,,,,
+Makati,13945846.0,2578.0,0.0,0.0,0.0,13948424.0,7.23,Table21_1_CityFunding,,,,,,,,,,,,,,,,,,
+Manila,2970362.0,7079474.0,0.0,0.0,0.0,10049835.0,5.21,Table21_1_CityFunding,,,,,,,,,,,,,,,,,,
+Quezon City,9427558.0,0.0,0.0,0.0,0.0,9427558.0,4.89,Table21_1_CityFunding,,,,,,,,,,,,,,,,,,
+Taguig,8755754.0,0.0,0.0,0.0,0.0,8755754.0,4.54,Table21_1_CityFunding,,,,,,,,,,,,,,,,,,
+Others,87634747.0,32955208.0,189584.0,843715.0,5072778.0,126696031.0,65.65,Table21_1_CityFunding,,,,,,,,,,,,,,,,,,
+,100647500.0,18999410.0,27071.0,336863.0,9017929.0,129028771.0,66.86,Table21_2_CityFundingByClass,1.0,,,,,,,,,,,,,,,,,
+,6000042.0,3757813.0,41047.0,1502.0,341130.0,10141534.0,5.26,Table21_2_CityFundingByClass,2.0,,,,,,,,,,,,,,,,,
+,7971234.0,6010858.0,16003.0,216525.0,1873749.0,16088369.0,8.34,Table21_2_CityFundingByClass,3.0,,,,,,,,,,,,,,,,,
+,4193194.0,2268650.0,4517.0,4882.0,803648.0,7274892.0,3.77,Table21_2_CityFundingByClass,4.0,,,,,,,,,,,,,,,,,
+,27115279.0,1242165.0,100946.0,286521.0,111794.0,28856705.0,14.95,Table21_2_CityFundingByClass,5.0,,,,,,,,,,,,,,,,,
+,911359.0,679891.0,4000.0,0.0,0.0,1595251.0,0.83,Table21_2_CityFundingByClass,6.0,,,,,,,,,,,,,,,,,
+,32689036.0,6502233.0,148489.0,295808.0,430531.0,40066098.0,16.95,Table21_3_ProvinceFunding_Consolidated,,Cebu,,,,,,,,,,,,,,,,
+,5299745.0,2776791.0,6000.0,860602.0,0.0,8943137.0,3.78,Table21_3_ProvinceFunding_Consolidated,,Cavite,,,,,,,,,,,,,,,,
+,8597857.0,173289.0,1000.0,114143.0,0.0,8886290.0,3.76,Table21_3_ProvinceFunding_Consolidated,,Sulu,,,,,,,,,,,,,,,,
+,5481196.0,3024169.0,16890.0,216713.0,983578.0,8738968.0,3.7,Table21_3_ProvinceFunding_Consolidated,,Laguna,,,,,,,,,,,,,,,,
+,4385290.0,3515315.0,1502.0,556545.0,0.0,8458651.0,3.58,Table21_3_ProvinceFunding_Consolidated,,Negros Occidental,,,,,,,,,,,,,,,,
+,98616166.0,49556206.0,1329755.0,2097191.0,9730171.0,161329489.0,68.24,Table21_3_ProvinceFunding_Consolidated,,Others,,,,,,,,,,,,,,,,
+,647053.0,369080.0,2246.0,9705152.0,2285.0,10725816.0,12.51,Table21_4_ProvinceFunding_Standalone,,Albay,,,,,,,,,,,,,,,,
+,1696454.0,1835601.0,28513.0,0.0,3560569.0,3560569.0,4.15,Table21_4_ProvinceFunding_Standalone,,Rizal,,,,,,,,,,,,,,,,
+,1566266.0,1357827.0,4825.0,6054.0,2934973.0,2934973.0,3.42,Table21_4_ProvinceFunding_Standalone,,Iloilo,,,,,,,,,,,,,,,,
+,1646950.0,-512455.0,900.0,1084515.0,2219909.0,2219909.0,2.59,Table21_4_ProvinceFunding_Standalone,,Leyte,,,,,,,,,,,,,,,,
+,1341699.0,713374.0,94693.0,20219.0,2169985.0,2169985.0,2.53,Table21_4_ProvinceFunding_Standalone,,Bohol,,,,,,,,,,,,,,,,
+,40162472.0,18578119.0,523415.0,840060.0,4011318.0,64115384.0,74.79,Table21_4_ProvinceFunding_Standalone,,Others,,,,,,,,,,,,,,,,
+,63432741.0,3075064.0,700.0,13807.0,7812431.0,74334742.0,23.92,Table21_5_RegionFunding,,,NCR,,,,,,,,,,,,,,,
+,36951760.0,9813327.0,182648.0,532174.0,1060723.0,48540631.0,15.62,Table21_5_RegionFunding,,,Central Visayas,,,,,,,,,,,,,,,
+,20517759.0,11532134.0,128751.0,150287.0,1714478.0,34043409.0,10.95,Table21_5_RegionFunding,,,CALABARZON,,,,,,,,,,,,,,,
+,11487890.0,6051236.0,16595.0,268068.0,1414571.0,19238359.0,6.19,Table21_5_RegionFunding,,,Central Luzon,,,,,,,,,,,,,,,
+,10036301.0,6713352.0,95426.0,41823.0,983578.0,17870480.0,5.75,Table21_5_RegionFunding,,,Western Visayas,,,,,,,,,,,,,,,
+,76075581.0,31437954.0,1061825.0,1419039.0,6735356.0,116729755.0,37.56,Table21_5_RegionFunding,,,Others,,,,,,,,,,,,,,,
+,,,,,,,,Table21_COVID_vs_NonCOVID_Utilization,,,NCR,12000000000.0,7000000000.0,5000000000.0,,,,,,,,,,,,
+,,,,,,,,Table21_COVID_vs_NonCOVID_Utilization,,,Central Luzon,8500000000.0,5000000000.0,3500000000.0,,,,,,,,,,,,
+,,,,,,,,Table21_COVID_vs_NonCOVID_Utilization,,,CALABARZON,7800000000.0,4200000000.0,3600000000.0,,,,,,,,,,,,
+,,,,,,,,Table21_COVID_vs_NonCOVID_Utilization,,,Central Visayas,6500000000.0,3000000000.0,3500000000.0,,,,,,,,,,,,
+,,,,,,,,Table21_COVID_vs_NonCOVID_Utilization,,,Western Visayas,4000000000.0,1800000000.0,2200000000.0,,,,,,,,,,,,
+,,,,,,,,Table21_COVID_vs_NonCOVID_Utilization,,,Others,15000000000.0,6000000000.0,9000000000.0,,,,,,,,,,,,
+,,,,,,,,Table21_Financing_Gaps,,,Bicol (V),,,,35.5,17.9,17.6,,,,,,,,,
+,,,,,,,,Table21_Financing_Gaps,,,Cagayan Valley (II),,,,12.2,4.4,7.8,,,,,,,,,
+,,,,,,,,Table21_Financing_Gaps,,,CALABARZON (IV-A),,,,10.0,5.0,5.0,,,,,,,,,
+,,,,,,,,Table21_Financing_Gaps,,,Central Luzon (III),,,,7.5,3.5,4.0,,,,,,,,,
+,,,,,,,,Table21_Financing_Gaps,,,CAR,,,,6.0,3.0,3.0,,,,,,,,,
+,,,,,,,,Table21_Financing_Gaps,,,Others,,,,25.0,20.0,5.0,,,,,,,,,
+,,,,,,,,Table21_Utilization_By_IncomeClass,,,,,,,,,,1.0,500.0,120.0,0.24,,,,,
+,,,,,,,,Table21_Utilization_By_IncomeClass,,,,,,,,,,2.0,250.0,60.0,0.24,,,,,
+,,,,,,,,Table21_Utilization_By_IncomeClass,,,,,,,,,,3.0,200.0,50.0,0.25,,,,,
+,,,,,,,,Table21_Utilization_By_IncomeClass,,,,,,,,,,4.0,150.0,30.0,0.2,,,,,
+,,,,,,,,Table21_Utilization_By_IncomeClass,,,,,,,,,,5.0,100.0,20.0,0.2,,,,,
+,,,,,,,,Table21_Utilization_By_IncomeClass,,,,,,,,,,6.0,50.0,10.0,0.2,,,,,
+,,,,,,,,Table21_Top10_LGUs_Utilization,,,,,,,,,,,,,0.4,Quezon City,2020.0,2000.0,800.0,0.6
+,,,,,,,,Table21_Top10_LGUs_Utilization,,,,,,,,,,,,,0.4,Manila,2020.0,1500.0,600.0,0.55
+,,,,,,,,Table21_Top10_LGUs_Utilization,,,,,,,,,,,,,0.42,Taguig,2020.0,1200.0,500.0,0.5
+,,,,,,,,Table21_Top10_LGUs_Utilization,,,,,,,,,,,,,0.41,Makati,2020.0,1100.0,450.0,0.5
+,,,,,,,,Table21_Top10_LGUs_Utilization,,,,,,,,,,,,,0.4,Cebu City,2020.0,1000.0,400.0,0.45
+,,,,,,,,Table21_Top10_LGUs_Utilization,,,,,,,,,,,,,0.39,Davao City,2020.0,900.0,350.0,0.4
+,,,,,,,,Table21_Top10_LGUs_Utilization,,,,,,,,,,,,,0.35,Caloocan,2020.0,850.0,300.0,0.35
+,,,,,,,,Table21_Top10_LGUs_Utilization,,,,,,,,,,,,,0.31,Pasig,2020.0,800.0,250.0,0.3
+,,,,,,,,Table21_Top10_LGUs_Utilization,,,,,,,,,,,,,0.32,Cavite City,2020.0,750.0,240.0,0.25
+,,,,,,,,Table21_Top10_LGUs_Utilization,,,,,,,,,,,,,0.33,Iloilo City,2020.0,700.0,230.0,0.2
